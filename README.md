@@ -47,8 +47,7 @@
 <br>
   
 <div id="instructions">
-   <h3>Starting API (console/prompt commands)</h3>
-  <hr>
+  <h2>Starting API (console/prompt commands)</h2>
 <h5>FOLDER CREATION AND ACESS:</h5> 
     
 ```bash
@@ -89,8 +88,7 @@ npm start
 <br>
   
 <div>
-    <h3>About & Contact</h3>
-  <hr>           
+  <h2>About & Contact</h2>      
   <sub><img align="right" width="440px" src="https://user-images.githubusercontent.com/95272518/161022282-84e19a9f-69db-4572-be13-58e793f70f98.svg"></sub>
   <h5>Email: marksales.dev.eng@gmail.com</h5>
   <a href="https://www.linkedin.com/in/markley-sales/"><img width="34px" src="https://user-images.githubusercontent.com/95272518/160725427-5c844c00-078d-4bee-9af7-2a89d5082b1c.svg"></a>
