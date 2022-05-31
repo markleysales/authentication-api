@@ -12,7 +12,6 @@ app.use(express.json());
 
 // models
 const User = require('./models/User');
-const { JsonWebTokenError } = require('jsonwebtoken');
 
 // open route
 app.get('/', (req,res) => {
