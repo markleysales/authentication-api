@@ -37,10 +37,10 @@
   <table>
     <th>
       <a href="https://nodejs.org/en/">
-        <img width="44%" src="https://user-images.githubusercontent.com/95272518/157804111-12b16362-6db7-4fab-a4ac-17b5a32d6a4e.svg">
+        <img width="80%" src="https://user-images.githubusercontent.com/95272518/157804111-12b16362-6db7-4fab-a4ac-17b5a32d6a4e.svg">
       </a>
     </tr>
- </table>
+  </table>
   <h5>Node.js: <a href="https://nodejs.org/en/">https://nodejs.org/en</a></h5>
 <div>
   
