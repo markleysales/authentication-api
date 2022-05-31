@@ -39,15 +39,9 @@
       <a href="https://nodejs.org/en/">
         <img width="44%" src="https://user-images.githubusercontent.com/95272518/157804111-12b16362-6db7-4fab-a4ac-17b5a32d6a4e.svg">
       </a>
-      <a href="https://www.mongodb.com/try/download/community">
-        <img width="44%" src="https://user-images.githubusercontent.com/95272518/157804174-756d704a-14b7-4e35-901f-f9cbffe271ec.svg">
-      </a>
     </tr>
  </table>
-  <h5>
-    Node.js: <a href="https://nodejs.org/en/">https://nodejs.org/en</a><br>
-    MongoDB: <a href="https://www.mongodb.com/try/download/community">https://www.mongodb.com/try/download/community</a>
-  </h5>
+  <h5>Node.js: <a href="https://nodejs.org/en/">https://nodejs.org/en</a></h5>
 <div>
   
 <br>
