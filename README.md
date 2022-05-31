@@ -89,7 +89,7 @@ npm install
 npm start
 ```
 
-<h5>Open <a href="http://localhost:3000">localhost:3000</a> with your browser to see the result.</h5>
+<h5>Open <a href="http://localhost:3000">localhost:3000</a> with your Postman to see the result.</h5>
 </div>
   
 <br>
