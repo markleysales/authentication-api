@@ -1,4 +1,4 @@
-<body>
+<body> <!-- README MADE BY MARKLEY SALES!-- 500px min 100px títulos e bansc bold + 3px de borda (texto) --README MADE BY MARKLEY SALES! -->
   
 <div id="header">
   <h1>Authentication API</h1>
@@ -16,6 +16,18 @@
   </sup></div>
   <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/171297180-6a32c7f1-3afe-428c-958e-c27e0438d7a6.png">
   <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/171297192-88528396-0278-4553-a85e-c03098000980.png">
+  <br><br>
+  <h5>WHAT WAS DONE?</h5>
+  
+><h5>registration endpoints with password validation, login, user editing, user listing with pagination,<br> middleware for validation and project in "Postman" with the endpoints.</h5>
+  
+  <h5>WHAT IS API?</h5>
+
+><h5>API (Application Programming Interface) is a set of standards that enables communication<br> between platforms through a series of standards and protocols</h5>
+  
+><h5>The function of an API is, basically, to facilitate and simplify the work of developers, in<br> addition to providing a standard for the creation of new platforms. With the use of APIs,<br> it is not necessary to create custom code for each function that a program will perform,<br> which simplifies the creation of new applications, software and platforms in general.</h5>
+
+  
 </div>
   
 <br>
