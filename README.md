@@ -23,11 +23,11 @@
   
   <h4>WHAT IS API?</h4>
 
-><p>API (Application Programming Interface) is a set of standards that enables communication between platforms through a series of standards and protocols</p>
+><p>API (Application Programming Interface) is a set of standards that enables communication between platforms through a series of standards and protocols.</p>
   
-><p>The function of an API is, basically, to facilitate and simplify the work of developers, in addition to providing a standard for the creation of new platforms. With the use of APIs, it is not necessary to create custom code for each function that a program will perform, which simplifies the creation of new applications, software and platforms in general.</p>
-
-  
+  <p>
+    The function of an API is, basically, to facilitate and simplify the work of developers, in addition to providing a standard for the creation of new platforms.         With the use of APIs, it is not necessary to create custom code for each function that a program will perform, which simplifies the creation of new applications,       software and platforms in general.
+  </p>
 </div>
   
 <br>
