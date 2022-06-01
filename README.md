@@ -33,7 +33,7 @@
 <br>
   
 <div id="machine-required">
-  <h3>Machine installation required</h3>
+  <h3>MACHINE INSTALLATION REQUIRED</h3>
   <hr>
   <table>
     <th>
@@ -48,7 +48,7 @@
 <br>
   
 <div id="instructions">
-  <h3>Starting API (console/prompt commands)</h3>
+  <h3>STARTING  API (console/prompt commands)</h3>
   <hr>
   <h5>FOLDER CREATION AND ACESS:</h5> 
     
@@ -90,7 +90,7 @@ npm start
 <br>
   
 <div>
-  <h3>About & Contact</h3>      
+  <h3>ABOUT & CONTACT</h3>      
   <hr>
   <sub><img align="right" width="440px" src="https://user-images.githubusercontent.com/95272518/161022282-84e19a9f-69db-4572-be13-58e793f70f98.svg"></sub>
   <h5>Email: marksales.dev.eng@gmail.com</h5>
