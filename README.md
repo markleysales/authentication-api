@@ -1,7 +1,7 @@
 <body> <!-- README MADE BY MARKLEY SALES!-- 500px min 100px títulos e bansc bold + 3px de borda (texto) --README MADE BY MARKLEY SALES! -->
   
 <div id="header">
-  <h1>Authentication API</h1>
+  <h1>ᴀᴜᴛʜᴇɴᴛɪᴄᴀᴛɪᴏɴ ᴀᴘɪ</h1>
   <sub>
     <img align="left" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/markleysales/authentication-api&count_bg=%23DAA520&title_bg=%238D5FD3&icon=coursera.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false">
     <img align="left" height="20px" src="https://img.shields.io/github/last-commit/markleysales/authentication-api?color=DAA520&label=Last%20commit&logo=Git&labelColor=8D5FD3&logoColor=FFFFFF">
@@ -17,15 +17,15 @@
   <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/171297180-6a32c7f1-3afe-428c-958e-c27e0438d7a6.png">
   <img width="49.2%" src="https://user-images.githubusercontent.com/95272518/171297192-88528396-0278-4553-a85e-c03098000980.png">
   <br><br>
-  <h5>WHAT WAS DONE?</h5>
+  <h4>WHAT WAS DONE?</h4>
   
-><h5>registration endpoints with password validation, login, user editing, user listing with pagination,<br> middleware for validation and project in "Postman" with the endpoints.</h5>
+><p>registration endpoints with password validation, login, user editing, user listing with pagination,<br> middleware for validation and project in "Postman" with the endpoints.</p>
   
-  <h5>WHAT IS API?</h5>
+  <h4>WHAT IS API?</h4>
 
-><h5>API (Application Programming Interface) is a set of standards that enables communication<br> between platforms through a series of standards and protocols</h5>
+><p>API (Application Programming Interface) is a set of standards that enables communication<br> between platforms through a series of standards and protocols</p>
   
-><h5>The function of an API is, basically, to facilitate and simplify the work of developers, in<br> addition to providing a standard for the creation of new platforms. With the use of APIs,<br> it is not necessary to create custom code for each function that a program will perform,<br> which simplifies the creation of new applications, software and platforms in general.</h5>
+><p>The function of an API is, basically, to facilitate and simplify the work of developers, in<br> addition to providing a standard for the creation of new platforms. With the use of APIs,<br> it is not necessary to create custom code for each function that a program will perform,<br> which simplifies the creation of new applications, software and platforms in general.</p>
 
   
 </div>
@@ -33,7 +33,8 @@
 <br>
   
 <div id="machine-required">
-  <h2>Machine installation required</h2>
+  <h3>Machine installation required</h3>
+  <hr>
   <table>
     <th>
       <a href="https://nodejs.org/en/">
@@ -47,8 +48,9 @@
 <br>
   
 <div id="instructions">
-  <h2>Starting API (console/prompt commands)</h2>
-<h5>FOLDER CREATION AND ACESS:</h5> 
+  <h3>Starting API (console/prompt commands)</h3>
+  <hr>
+  <h5>FOLDER CREATION AND ACESS:</h5> 
     
 ```bash
 mkdir foldername
@@ -88,7 +90,8 @@ npm start
 <br>
   
 <div>
-  <h2>About & Contact</h2>      
+  <h3>About & Contact</h3>      
+  <hr>
   <sub><img align="right" width="440px" src="https://user-images.githubusercontent.com/95272518/161022282-84e19a9f-69db-4572-be13-58e793f70f98.svg"></sub>
   <h5>Email: marksales.dev.eng@gmail.com</h5>
   <a href="https://www.linkedin.com/in/markley-sales/"><img width="34px" src="https://user-images.githubusercontent.com/95272518/160725427-5c844c00-078d-4bee-9af7-2a89d5082b1c.svg"></a>
