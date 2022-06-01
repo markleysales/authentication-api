@@ -19,11 +19,11 @@
   <br><br>
   <h4>WHAT WAS DONE?</h4>
   
-><p>registration endpoints with password validation, login, user editing, user listing with pagination, middleware for validation and project in "Postman" with the endpoints.</p>
+>registration endpoints with password validation, login, user editing, user listing with pagination, middleware for validation and project in "Postman" with the endpoints.
   
   <h4>WHAT IS API?</h4>
 
-><p>API (Application Programming Interface) is a set of standards that enables communication between platforms through a series of standards and protocols.</p>
+>API (`Application Programming Interface`) is a set of standards that enables communication between platforms through a series of standards and protocols.
   
   <p>
     The function of an API is, basically, to facilitate and simplify the work of developers, in addition to providing a standard for the creation of new platforms.         With the use of APIs, it is not necessary to create custom code for each function that a program will perform, which simplifies the creation of new applications,       software and platforms in general.
@@ -36,13 +36,15 @@
   <h3>MACHINE INSTALLATION REQUIRED</h3>
   <hr>
   <table>
-    <th>
-      <a href="https://nodejs.org/en/">
-        <img width="80%" src="https://user-images.githubusercontent.com/95272518/157804111-12b16362-6db7-4fab-a4ac-17b5a32d6a4e.svg">
-      </a>
+    <tr>
+      <th>
+        <a href="https://nodejs.org/en/">
+          <img width="50%" src="https://user-images.githubusercontent.com/95272518/157804111-12b16362-6db7-4fab-a4ac-17b5a32d6a4e.svg">
+        </a>
+        <p>Node.js: <a href="https://nodejs.org/en/">https://nodejs.org/en</a></p>
+      </th>
     </tr>
   </table>
-  <p>Node.js: <a href="https://nodejs.org/en/">https://nodejs.org/en</a></p>
 <div>
   
 <br>
