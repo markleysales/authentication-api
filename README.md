@@ -19,13 +19,13 @@
   <br><br>
   <h4>WHAT WAS DONE?</h4>
   
-><p>registration endpoints with password validation, login, user editing, user listing with pagination,<br> middleware for validation and project in "Postman" with the endpoints.</p>
+><p>registration endpoints with password validation, login, user editing, user listing with pagination, middleware for validation and project in "Postman" with the endpoints.</p>
   
   <h4>WHAT IS API?</h4>
 
-><p>API (Application Programming Interface) is a set of standards that enables communication<br> between platforms through a series of standards and protocols</p>
+><p>API (Application Programming Interface) is a set of standards that enables communication between platforms through a series of standards and protocols</p>
   
-><p>The function of an API is, basically, to facilitate and simplify the work of developers, in<br> addition to providing a standard for the creation of new platforms. With the use of APIs,<br> it is not necessary to create custom code for each function that a program will perform,<br> which simplifies the creation of new applications, software and platforms in general.</p>
+><p>The function of an API is, basically, to facilitate and simplify the work of developers, in addition to providing a standard for the creation of new platforms. With the use of APIs, it is not necessary to create custom code for each function that a program will perform, which simplifies the creation of new applications, software and platforms in general.</p>
 
   
 </div>
