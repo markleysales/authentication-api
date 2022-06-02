@@ -39,14 +39,14 @@
     <tr>
       <th>
         <a href="https://nodejs.org/en/">
-          <img width="60%" src="https://user-images.githubusercontent.com/95272518/157804111-12b16362-6db7-4fab-a4ac-17b5a32d6a4e.svg">
+          <img width="50%" src="https://user-images.githubusercontent.com/95272518/157804111-12b16362-6db7-4fab-a4ac-17b5a32d6a4e.svg">
         </a>
         <p>Node.js: <a href="https://nodejs.org/en/">nodejs.org/en</a></p>
         <p><a href="https://nodejs.org/en/docs/">Docs</a></p>
       </th>
       <th>
         <a href="https://nodejs.org/en/">
-          <img width="60%" src="https://user-images.githubusercontent.com/95272518/171521878-b54fadd7-95c9-40db-975c-1f6c9b7cf3a3.svg">
+          <img width="50%" src="https://user-images.githubusercontent.com/95272518/171521878-b54fadd7-95c9-40db-975c-1f6c9b7cf3a3.svg">
         </a>
         <p>Postman: <a href="https://nodejs.org/en/">postman.com/downloads</a></p>
         <p><a href="https://learning.postman.com/docs/getting-started/introduction/">Docs</a></p>
