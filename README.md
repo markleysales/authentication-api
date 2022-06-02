@@ -102,9 +102,8 @@ npm start
 <div>
   <h3>ABOUT & CONTACT</h3>    
   <hr>
-  <p>Email: marksales.dev.eng@gmail.com</p>
   <sub><img align="right" width="440px" src="https://user-images.githubusercontent.com/95272518/161022282-84e19a9f-69db-4572-be13-58e793f70f98.svg"></sub>
-  
+  <p>Email: marksales.dev.eng@gmail.com</p>
   <br><br><br><br>
   <div align="center">
     </sub><a href="https://www.linkedin.com/in/markley-sales/"><img width="30px" src="https://user-images.githubusercontent.com/95272518/160725427-5c844c00-078d-4bee-9af7-2a89d5082b1c.svg"></a>
