@@ -19,7 +19,7 @@
   <br><br>
   <h4>WHAT WAS DONE?</h4>
   
->registration endpoints with password validation, login, user editing, user listing with pagination, middleware for validation and project in "Postman" with the endpoints.
+>Registration endpoints with password validation, login, user editing, user listing with pagination, middleware for validation and project in "Postman" with the endpoints.
   
   <h4>WHAT IS API?</h4>
 
