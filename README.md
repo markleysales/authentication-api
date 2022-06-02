@@ -100,17 +100,18 @@ npm start
 <br>
   
 <div>
-  <h3>ABOUT & CONTACT</h3>      
+  <h3>ABOUT & CONTACT</h3>    
   <hr>
-  <sub><img align="right" width="440px" src="https://user-images.githubusercontent.com/95272518/161022282-84e19a9f-69db-4572-be13-58e793f70f98.svg"></sub>
   <p>Email: marksales.dev.eng@gmail.com</p>
-  <a href="https://www.linkedin.com/in/markley-sales/"><img width="34px" src="https://user-images.githubusercontent.com/95272518/160725427-5c844c00-078d-4bee-9af7-2a89d5082b1c.svg"></a>
-  <a href="https://www.behance.net/markleysales"><img width="34px" src="https://user-images.githubusercontent.com/95272518/160725548-52a7fde7-0dca-4eea-a1df-a4cef6cd5629.svg"></a>
-  <a href="https://www.instagram.com/mark_sales.it/"><img width="34px" src="https://user-images.githubusercontent.com/95272518/171535477-ea45c351-1eb9-419b-b8a6-d17ab1f370cc.svg"></a>
-   <a href="https://www.instagram.com/mark_sales.it/"><img width="34px" src="https://user-images.githubusercontent.com/95272518/171535026-f1b432bf-8437-4d45-9790-d174cfb0fb26.svg"></a>
+  <sub><img align="right" width="440px" src="https://user-images.githubusercontent.com/95272518/161022282-84e19a9f-69db-4572-be13-58e793f70f98.svg"></sub>
   
   <br><br><br><br>
   <div align="center">
+    </sub><a href="https://www.linkedin.com/in/markley-sales/"><img width="34px" src="https://user-images.githubusercontent.com/95272518/160725427-5c844c00-078d-4bee-9af7-2a89d5082b1c.svg"></a>
+  <a href="https://www.behance.net/markleysales"><img width="34px" src="https://user-images.githubusercontent.com/95272518/160725548-52a7fde7-0dca-4eea-a1df-a4cef6cd5629.svg"></a>
+  <a href="https://www.instagram.com/mark_sales.it/"><img width="34px" src="https://user-images.githubusercontent.com/95272518/171535477-ea45c351-1eb9-419b-b8a6-d17ab1f370cc.svg"></a>
+   <a href="https://www.instagram.com/mark_sales.it/"><img width="34px" src="https://user-images.githubusercontent.com/95272518/171535026-f1b432bf-8437-4d45-9790-d174cfb0fb26.svg"></a></sub>
+    <br><br>
     <a href="https://github.com/markleysales">
        <img width="24%" src="https://user-images.githubusercontent.com/95272518/171530486-6d5b80f5-da89-444b-bdda-e471f71d7007.svg">
     </a>
