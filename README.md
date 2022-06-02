@@ -73,11 +73,11 @@ cd foldername
 <h4>CODE CLONING AND ACESS:</h4> 
     
 ```bash
-git clone https://github.com/markleysales/markbunnyOnlStore.git
+git clone https://github.com/markleysales/authentication-api.git
 ```
     
 ```bash
-cd markbunnyOnlStore
+cd authentication-api
 ```
     
   <p><sup>*check clone options in the <b>code</b> tab</sup></p>
