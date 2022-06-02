@@ -111,7 +111,7 @@ npm start
   <br><br><br><br>
   <div align="center">
     <a href="https://github.com/markleysales">
-       <img width="20%" src="https://user-images.githubusercontent.com/95272518/171530486-6d5b80f5-da89-444b-bdda-e471f71d7007.svg">
+       <img width="26%" src="https://user-images.githubusercontent.com/95272518/171530486-6d5b80f5-da89-444b-bdda-e471f71d7007.svg">
     </a>
   </div>
 </div>
