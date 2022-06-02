@@ -60,7 +60,7 @@
 <div id="instructions">
   <h3>STARTING  API (console/prompt commands)</h3>
   <hr>
-  <h4>FOLDER CREATION AND ACESS:</h4> 
+  <h5>FOLDER CREATION AND ACESS:</h5> 
     
 ```bash
 mkdir foldername
@@ -70,7 +70,7 @@ mkdir foldername
 cd foldername
 ```
    
-<h4>CODE CLONING AND ACESS:</h4> 
+<h5>CODE CLONING AND ACESS:</h5> 
     
 ```bash
 git clone https://github.com/markleysales/authentication-api.git
@@ -82,13 +82,13 @@ cd authentication-api
     
   <p><sup>*check clone options in the <b>code</b> tab</sup></p>
     
-<h4>INSTALL DEPENDENCIES:</h4>
+<h5>INSTALL DEPENDENCIES:</h5>
 
 ```bash
 npm install
 ```
 
-<h4>RUN DEVELOPMENT SERVER:</h4>
+<h5>RUN DEVELOPMENT SERVER:</h5>
 
 ```bash
 npm start
