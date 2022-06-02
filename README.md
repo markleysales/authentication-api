@@ -52,7 +52,7 @@
 <div id="instructions">
   <h3>STARTING  API (console/prompt commands)</h3>
   <hr>
-  <h5>FOLDER CREATION AND ACESS:</h5> 
+  <h4>FOLDER CREATION AND ACESS:</h4> 
     
 ```bash
 mkdir foldername
@@ -62,7 +62,7 @@ mkdir foldername
 cd foldername
 ```
    
-<h5>CODE CLONING AND ACESS:</h5> 
+<h4>CODE CLONING AND ACESS:</h4> 
     
 ```bash
 git clone https://github.com/markleysales/markbunnyOnlStore.git
@@ -72,21 +72,21 @@ git clone https://github.com/markleysales/markbunnyOnlStore.git
 cd markbunnyOnlStore
 ```
     
-<p><sup><sup>*check clone options in the "code" tab</sup></sup></p>
+  <p><sup>*check clone options in the <b>code</b> tab</sup></p>
     
-<h5>INSTALL DEPENDENCIES:</h5>
+<h4>INSTALL DEPENDENCIES:</h4>
 
 ```bash
 npm install
 ```
 
-<h5>RUN DEVELOPMENT SERVER:</h5>
+<h4>RUN DEVELOPMENT SERVER:</h4>
 
 ```bash
 npm start
 ```
 
-<h5>Open <a href="http://localhost:3000">localhost:3000</a> with your Postman to see the result.</h5>
+  <p>Open <a href="http://localhost:3000"><b>localhost:3000</b></a> endpoints with your <b>Postman</b> to see the result.</p>
 </div>
   
 <br>
